@@ -57,3 +57,7 @@ Confusion Matrix:
 
 We have come to the conclusion, after analysing the results, that using word embeddings is the best approach to go with as this yields fast and accurate results. Our results indicate that the feature vectors obtained seem to have enough predictive power to be used in practice. Along with that, we identified that the best technique for this problem is LSTM. We also provide a fast and light weighted operation, as the features used in our work can easily be collected easily within a short period, without having to be clicked and hence that gives us an advantage over a model that collect features specifically from tweets or are machine activity-based which need to be clicked at any cost in order to be collected. The comparison of our approach with highly tuned conventional models has also been done and found our approach to be giving the highest results. 
 
+
+**Project Poster**
+![CatchPhish](https://user-images.githubusercontent.com/55654110/149083485-51c2299e-3e5b-4c79-8cb4-e57ea7148b9d.png)
+
